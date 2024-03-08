@@ -1,0 +1,10 @@
+28.02.2024
+https://www.youtube.com/watch?v=cBg6xA5C60s
+1:27:30
+
+working on emisor and receptor
+---------------------------------------------------
+
+
+03-03-2024
+https://react.dev/reference/react-dom/components/select#select
