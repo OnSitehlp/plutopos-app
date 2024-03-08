@@ -29,7 +29,7 @@ export default function Emisor(placeholder: any){
                     <Image src="/noavatar.png" alt="" width={40} height={40} className={style.userImage}/>17.852.125-K
                      </div>
                      </td>                     
-                    <td>Distribuidora Alto Ramirez Ltda.</td>
+                    <td>Distribuidora Alto Ramirez Ltda. Azapa</td>
                     <td>Supermercado Minorista</td>
                     <td>Los Molles Norte 737</td>
                     <td>Arica</td>
