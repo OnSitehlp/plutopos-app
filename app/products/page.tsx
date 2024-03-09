@@ -1,14 +1,11 @@
-//https://www.youtube.com/watch?v=cuzw4vL1z5E
-import TableProducts from "../components/TableProducts";
 
+import TableProducts from "../components/TableProducts";
 async function LoadProducts() {
     const res = await fetch("http://localhost:3000/productos");
     const data = await res.json();
     //await new Promise(resolve => setTimeout(resolve, 1000));
     return data;
 }
-//https://www.youtube.com/watch?v=_SPoSMmN3ZU
-// 1:06:22
 async function ProductList() {
     const products = await LoadProducts();    
     return (
